@@ -1,9 +1,7 @@
 package edu.paulo.java.anatomia_de_classes;
-public class MinhaClasse {
+public class MinhaClasse { //classe principal
 
-    //Área de escrita de código
-    
-    public static void main(String[] args) {
+    public static void main(String[] args) { //classe de execução 
 
         String primeiroNome = "Paulo";
         String segundoNome = "Lima";
